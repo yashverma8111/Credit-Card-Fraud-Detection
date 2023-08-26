@@ -4,7 +4,7 @@ Welcome to the **Credit Card Fraud Detection** repository! This project focuses 
 
 ## Project Overview
 
-In this project, we tackle the challenge of identifying fraudulent credit card transactions within a dataset. Credit card fraud is a significant concern, and using machine learning to detect suspicious activities can help financial institutions prevent potential losses. The dataset used for this project, "creditcard.csv," contains a mix of legitimate and fraudulent transactions. By training a model on this dataset, we aim to develop a tool that can identify fraudulent transactions effectively.
+In this project, we tackle the challenge of identifying fraudulent credit card transactions within a dataset. Credit card fraud is a significant concern, and using machine learning to detect suspicious activities can help financial institutions prevent potential losses. The dataset used for this project, "creditcard.csv," (data taken from kaggle) contains a mix of legitimate and fraudulent transactions. By training a model on this dataset, we aim to develop a tool that can identify fraudulent transactions effectively.
 
 ## Project Structure
 
